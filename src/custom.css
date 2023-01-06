@@ -1,0 +1,28 @@
+.body {
+    margin-top: 30px;
+}
+
+.background {
+    background-color: #b5eff72d;
+    color: #00090aef;
+}
+
+.textarea {
+    background-color: #eef2f5ee;
+    height: 300px;
+}
+
+.fa-microphone {
+    margin-top: 30px;
+    margin-bottom: 10px
+}
+
+.fa-microphone:hover {
+    color: #875abbee;
+}
+
+
+.fas, .fa {
+    cursor: pointer;
+}
+
